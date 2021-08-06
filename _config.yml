@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jiaxin Huang"
+title                    : "Jing Wang"
 title_separator          : "-"
-name                     : &name "Jiaxin Huang"
-description              : &description "3rd Year PhD Student, UIUC"
+name                     : &name "Jing Wang"
+description              : &description "3rd Year PhD Student, Princeton University"
 url                      : https://jw64.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JingWangCEE/jw64.github.io"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jiaxin Huang"
-  avatar           : "my_pic1.jpg"
-  bio              : "3rd Year PhD Student @ UIUC"
+  name             : "Jing Wang"
+  avatar           : "JWang.jpg"
+  bio              : "3rd Year PhD Student @ Princeton University"
   location         : #"Location"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "jiaxinh3 <AT> illinois <DOT> edu "
+  email            : #"jiaxinh3 <AT> illinois <DOT> edu "
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "teapot123"
+  github           : "JingWangCEE"
   google_plus      :
   keybase          :
   instagram        :
